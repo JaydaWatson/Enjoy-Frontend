@@ -1,0 +1,46 @@
+.offer1, .offer2, .offer3, .offer4{
+    padding: 10px;
+    text-align: center;
+    margin: 3px;
+    display: flex;
+    flex-direction: column;
+    resize: vertical;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #4DD0E1;
+
+}
+a{
+    color: black;
+}
+
+.Button{
+    background-color: #ffea00 ;
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    color: black;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.icons {
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+}
+
+.link {
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+    color: #880e4f;
+}
+
+.main{
+    text-align: center;
+}

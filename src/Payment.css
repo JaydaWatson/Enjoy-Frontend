@@ -1,0 +1,108 @@
+.payment{
+    text-align: center;
+    margin: 3%;
+    padding: 0px;
+}
+
+.rccs{
+    padding: 3%;
+    margin: 20%;
+}
+
+.Card{
+    color: white;
+}
+
+.PaymentMethod{
+    padding: 9%;
+    max-width: 560px;
+    min-width: 330px;  
+    padding-left: 0%;  
+}
+
+.CardNumber,.Name{
+  width: 90%;
+}
+
+input{
+    height: 30px;
+}
+
+input.CVC{
+    width: 38%;
+}
+
+input.Expiry{
+    width: 49.7%;
+}
+
+input[type=radio] {
+    display: inline;
+    margin: 9px;
+    width: 10%;
+    height: 15px;
+}
+
+.payment1, .payment2{
+    padding: 5%;
+    margin: 10px;
+    width: 80%;
+    border: 2px solid;
+}
+
+.hidepayment, .hidepaymentbutton{
+    display: none;
+}
+
+
+input[type=checkbox] {
+    display: inline;
+    margin: .01px;
+    width: 10%;
+    height: 15px;
+}
+
+.confirm1, .confirm2, .confirm3, .confirm4{
+    padding: 2%;
+    margin: 1px;
+    width: 80%;
+}
+
+.confirm{
+    text-align: left;
+}
+
+.textpayment{
+    display: inline;
+    margin: .01px;
+    width: 10%;
+    height: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+}
+
+.bookingsummary{
+    border: 2px solid black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+    margin: 10px;
+    width: 80%;
+}
+
+.button2{
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border: none;
+    background-color: #4DD0E1;
+    color: black;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}

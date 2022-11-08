@@ -1,0 +1,41 @@
+.Massages{
+    text-align: center;
+}
+
+.h1{
+    color: #4DD0E1;
+}
+
+.react-player{
+    position: relative;
+    left: 15%;
+    margin: 7px;
+    padding: 7px;
+}
+
+.levelHeader{
+    text-align: center;
+    margin: 9px;
+    padding: 9px;
+}
+
+.level1{
+    background-color: #ffea00;
+    border-radius: 15px;
+    margin: 9px;
+    padding: 9px;
+}
+
+.level2{
+    background-color: #4DD0E1;
+    border-radius: 15px;
+    margin: 9px;
+    padding: 9px;
+}
+
+.level3{
+    background-color: #ffea00;
+    border-radius: 15px;
+    margin: 9px;
+    padding: 9px;
+}

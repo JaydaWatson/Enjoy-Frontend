@@ -1,0 +1,81 @@
+.AppointmentBooking {
+    text-align: center;
+}
+
+.header {
+    margin: 9px;
+    color: #ffea00;
+}
+
+.icons {
+    margin: 2px;
+    padding: 2px;
+}
+
+.link {
+    margin: 2px;
+    padding: 2px;
+}
+
+.datepicker{
+    padding: 20px;
+}
+
+.Error {
+    color: red;
+    font-size: 13px;
+}
+
+
+.Form {
+    padding: 10px;
+    margin: 3px;
+    display: flex;
+    flex-direction: column;
+    resize: vertical;
+    border-radius: 10px;
+    background-color: #ffea00;
+    ;
+}
+
+.input {
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 20px;
+    margin: 3px;
+}
+
+input[type=radio] {
+    display: inline;
+    margin: 9px;
+}
+
+input[type=checkbox] {
+    display: inline;
+    margin: 9px;
+}
+
+.Selectors {
+    padding: 0em;
+    border-radius: 15px;
+    box-shadow: 20px;
+    background-color: #ffea00;
+}
+
+.button {
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border: none;
+    background-color: #4DD0E1;
+    color: black;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+
+

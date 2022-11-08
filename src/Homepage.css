@@ -1,0 +1,37 @@
+.Homepage{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    background: #880e4f;
+}
+
+.h1{
+    color: #4DD0E1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.a{
+    text-decoration-color: #4DD0E1;
+}
+
+.icons{
+    color: #4DD0E1;
+}
+
+.bookingicon{
+    color: #4DD0E1;
+}
+
+.footer{
+    text-align: right;
+    margin: 30px;
+    padding: 0px;
+    text-decoration-color: #4DD0E1;
+}
+
+.react-player{
+    margin: 6px;
+    padding: 6px;
+}

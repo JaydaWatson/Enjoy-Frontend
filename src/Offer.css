@@ -1,0 +1,48 @@
+.Offer{
+    text-align: center;
+    margin: 5px;
+    padding: 2%;
+}
+
+.ReadMore{
+    font-family:lobster,cursive;
+    font-size: 250%;
+    margin: 3%;
+    color: white;
+
+}
+
+.time{
+    text-align: center;
+    padding: 3%;
+    margin: 5px;
+    border: 2px solid #ffea00;
+    height: 20px;
+    color: white;
+}
+
+.price{
+    text-align: center;
+    padding: 3%;
+    margin: 15px;
+    border: 2px solid #ffea00;
+    height: 20px;
+    color: white;
+}
+
+.serviceDescription{
+    border: 2px solid #ffea00;
+    border-left: 0px;
+    border-right: 0px;
+    color: white;
+
+}
+
+.Policy{
+    border: 2px solid #ffea00;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    color: white;
+
+}
